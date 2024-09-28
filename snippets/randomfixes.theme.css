@@ -9,7 +9,7 @@
 [class^=nitroBadgeSvg_]
  { height: 1rem; }
 [class^=roleIcon_]
- { margin-left: 1ch; }
+ { margin-left: 0.5ch; }
 
 /*make spotify embeds wider*/
 [class^=embedSpotify_]
